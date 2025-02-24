@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```sh
 uvicorn app.main:app --reload
 ```
-✅ 실행하면 http://127.0.0.1:8000에서 API를 사용할 수 있습니다.
+✅ 실행하면 http://127.0.0.1:8000 에서 API를 사용할 수 있습니다.
 
 ### 3️⃣ Swagger UI에서 API 테스트
 브라우저에서 Swagger UI (API 문서) 확인 가능:
